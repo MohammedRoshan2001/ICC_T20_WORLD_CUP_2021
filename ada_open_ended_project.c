@@ -234,7 +234,7 @@ int main()
 			t[k].draw+=1;
 			t[k].points+=1;
 			t[l].points+=1;
-			printf("\n\t\tMATCH TIED!!\n");
+			printf("\n\t\tMATCH TIED!!!\n");
 		}
 
 		}
